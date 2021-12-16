@@ -9,3 +9,10 @@
 * git add (file_name): adicionar os arquivos do repositório local na staging;
 * git commit -m: registrar as alterações do repositório local com uma mensagem;
 * git push -u origin main: publicar os arquivos no repositório remoto;
+## Interface
+* git checkout -b interface: criar a branch;
+* touch interface.txt: criar o arquivo interface.txt;
+* git status: conferir os arquivos;
+* git add (file_name): adicionar os arquivos do repositório local na staging;
+* git commit -m: registrar as alterações do repositório local com uma mensagem;
+* git push -u origin interface: publicar os arquivos no repositório remoto;
